@@ -15,6 +15,7 @@ samples, guidance on mobile development, and a full API reference.
 2. Run inside Android Studio
 3. Open preferences (<kbd>cmd</kbd> + <kbd>,</kbd>) and setup Dart SDK path under <kbd>Languages &amp; Frameworks</kbd> -> <kbd>Dart</kbd> -> <kbd>Dart SDK path</kbd> and enable Dart support for all modules.
 4. Open preferences (<kbd>cmd</kbd> + <kbd>,</kbd>) and setup Flutter SDK path under <kbd>Languages &amp; Frameworks</kbd> -> <kbd>Flutter</kbd> -> <kbd>Flutter SDK path</kbd> 
+5. Run `flutter pub get` on all modules.
  
 ## Tips and known bugs
 
