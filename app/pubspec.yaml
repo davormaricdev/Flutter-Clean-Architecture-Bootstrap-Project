@@ -23,9 +23,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  domain:
+  domain: # reference to domain module
     path: ../domain
-  data:
+  data: # reference to data module (use only for DI)
     path: ../data
 
 

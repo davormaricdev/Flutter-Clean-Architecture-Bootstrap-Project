@@ -5,9 +5,9 @@ version: 0.0.1
 environment:
   sdk: ">=2.7.0 <3.0.0"
 
-#dependencies:
-#  flutter:
-#    sdk: flutter
+dependencies:
+  domain: # reference to domain module
+    path: ../domain
 
 dev_dependencies:
   test:
