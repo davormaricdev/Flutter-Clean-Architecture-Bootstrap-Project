@@ -1,0 +1,14 @@
+name: domain
+description: Core part of the application consisted of Application and Core layer.
+version: 0.0.1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+#dependencies:
+#  flutter:
+#    sdk: flutter
+
+dev_dependencies:
+  test:
+  mockito: ^4.1.1 #https://pub.dev/packages/mockito
